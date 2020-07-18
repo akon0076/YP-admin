@@ -24,7 +24,7 @@
     "qs": "^6.5.1"
   },
   "devDependencies": {
-    "lodash": "4.17.10",
+    "lodash": "4.17.19",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.2.1",
